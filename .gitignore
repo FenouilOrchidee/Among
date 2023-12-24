@@ -1,0 +1,14 @@
+# Fichiers et dossiers générés par l'environnement de développement
+/node_modules
+/dist
+/.vscode
+
+# Fichiers de configuration spécifiques à votre environnement
+.env
+
+# Fichiers de sauvegarde automatique
+*.bak
+*.swp
+
+# Fichiers de logs
+/log
