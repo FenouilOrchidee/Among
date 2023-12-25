@@ -22,8 +22,8 @@ Bot discord pour le mode Among us de Lehtal Company
 
 1. Ajoutez le bot à votre serveur discord.
 2. Exécutez la commande `!amongus` pour lancer le bot.
-3. Exécutez la commande `!end` pour arrêter le bot.
-4. Exécutez la commande `!help` pour afficher l'aide.
+3. Exécutez la commande `!end ${role}` pour arrêter le bot et affiché les résultats.
+4. Exécutez la commande `!lethalhelp` pour afficher l'aide.
 
 ## Contribuer
 
